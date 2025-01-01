@@ -1,4 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>KKKIE</title><link>https://kie619.github.io</link><description>掂过碌遮</description><copyright>KKKIE</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://kie619.github.io</link></image><lastBuildDate>Wed, 01 Jan 2025 03:24:45 +0000</lastBuildDate><managingEditor>KKKIE</managingEditor><ttl>60</ttl><webMaster>KKKIE</webMaster><item><title>部署站点</title><link>https://kie619.github.io/post/bu-shu-zhan-dian.html</link><description>莫拉主站：https://www.molacraft.com/&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>KKKIE</title><link>https://kie619.github.io</link><description>掂过碌遮</description><copyright>KKKIE</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://kie619.github.io</link></image><lastBuildDate>Wed, 01 Jan 2025 03:58:58 +0000</lastBuildDate><managingEditor>KKKIE</managingEditor><ttl>60</ttl><webMaster>KKKIE</webMaster><item><title>部署站点</title><link>https://kie619.github.io/post/bu-shu-zhan-dian.html</link><description>莫拉主站：https://www.molacraft.com/&#13;
 莫拉image : https://image.molacraft.com/&#13;
+mola备用站：https://test.molacraft.com/  &#13;
+molamola博客：https://blog.molamola.cc/&#13;
+博客站1：https://blog.kkkie.us.kg/&#13;
+BLOG站（KIENOTE） - https://kie619.github.io/&#13;
+BLOG站02 (莫拉打工人）- https://kie619.github.io/Gmeek02/ &#13;
+BLOG站03 (mola笔记本）- https://kie619.github.io/Gmeek03/ &#13;
+KIE个人简历站- https://kie619.github.io/resume/ &#13;
+静态网页部署- https://nav.619000.xyz/     &#13;
+静态网页部署- https://tools.619000.xyz/&#13;
+Nav静态导航站 https://nav.zengyuqi619.workers.dev/ &#13;
+图床空间1（图片外链）:  https://img.619000.xyz/&#13;
+图床空间2 https://image.619000.xyz/&#13;
+极简朋友圈  http://35.212.166.33:8035/&#13;
+&#13;
+&#13;
+&#13;
+&#13;
 。</description><guid isPermaLink="true">https://kie619.github.io/post/bu-shu-zhan-dian.html</guid><pubDate>Sat, 28 Dec 2024 12:24:38 +0000</pubDate></item></channel></rss>
